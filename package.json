@@ -1,6 +1,6 @@
 {
-  "name": "vcli-base",
-  "version": "0.1.4",
+  "name": "@zooey1184/vcli-base",
+  "version": "0.1.5",
   "description": "cli vue custom",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   },
   "author": "张应颖 <1184762165@qq.com>",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^3.0.1",
     "download-git-repo": "^2.0.0",
