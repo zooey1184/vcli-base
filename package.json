@@ -10,6 +10,10 @@
     "cli",
     "vue"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zooey1184/vcli-base.git"
+  },
   "author": "张应颖 <1184762165@qq.com>",
   "license": "MIT",
   "devDependencies": {
