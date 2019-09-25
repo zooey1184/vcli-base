@@ -1,6 +1,6 @@
 {
   "name": "@zooey1184/vcli-base",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "description": "cli vue custom",
   "main": "index.js",
   "scripts": {
@@ -24,10 +24,10 @@
     "ora": "^3.4.0"
   },
   "bin": {
-    "vcli": "bin/xr",
-    "vcli-add": "bin/vcli_add",
-    "vcli-delete": "bin/vcli_delete",
-    "vcli-list": "bin/vcli_list",
-    "vcli-init": "bin/vcli_init"
+    "vcli": "bin/vcli",
+    "vcli-add": "bin/vcli-add",
+    "vcli-delete": "bin/vcli-delete",
+    "vcli-list": "bin/vcli-list",
+    "vcli-init": "bin/vcli-init"
   }
 }
